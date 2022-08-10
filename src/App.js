@@ -40,7 +40,7 @@ function App() {
           <Routes>
             <Route path="/work3" element={<Work3details />} />
           </Routes>
-        </main>
+        </main> 
         <Footer />
       </Router>
     </>
