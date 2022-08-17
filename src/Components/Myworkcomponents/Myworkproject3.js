@@ -100,6 +100,13 @@ export default function Myworkproject3() {
     imgLeave2();
     searchLeave();
   };
+  const workScroll = ()=>{
+    window.scrollTo({
+      top:0,
+      left:0,
+      behavior:"auto"
+    });
+  };
   return (
     <>
       {dekstop && (
@@ -109,6 +116,7 @@ export default function Myworkproject3() {
           className="work1 margin-setter"
           onMouseEnter={enterWrapper}
           onMouseLeave={leaveWrapper}
+          onClick={workScroll}
         >
           <img
             src={require("../../Assets/search4.png")}
@@ -131,6 +139,7 @@ export default function Myworkproject3() {
           className="work1 margin-setter"
           onMouseEnter={enterWrapper2}
           onMouseLeave={leaveWrapper2}
+          onClick={workScroll}
         >
           <img
             src={require("../../Assets/search4.png")}

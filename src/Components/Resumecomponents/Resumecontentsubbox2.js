@@ -21,19 +21,26 @@ export default function Resumecontentsubbox2() {
       <h2>Work / Learning Experience</h2>
       <ul>
         <li>
-          <em>Zoonotics Esports Organisation </em> <br /> Team Leader of Front
-          end Website Development Team
+          <em>Intern | Indian Institute Of Technology, Ropar</em> <br /> Design of IoT enabled crop irrigation system.
         </li>
         <li>
-          <em>Member Of IICHE (Indian Institute Of Chemical Engineers) </em>
+          <em>Member Of IICHE (Indian Institute Of Chemical Engineers) </em> <br />
           Organizing various iiche events by team collaboration and gaining vast knowledge directly from invited professors.
+        </li>
+        <li>
+          <em>Completed IIT Ropar- TIF AWaDH Course on Agriculture Cyber Physical Systems </em> <br />
+          In this four months course , I learnt a lot about Agriculture cyber-physical systems (ACPSs), the CPSs designed and applied in agriculture , can collect fundamental and timely information about the climate, the soil, and the crops with high granularity, in order to realize more accurate systems of agricultural management.
+        </li>
+        <li>
+          <em>Zoonotics Esports Organisation </em> <br /> Team Leader of Front
+          end Website Development Team
         </li>
       </ul>
       <h2>Interests</h2>
       <ul>
         <li>Football</li>
         <li>Chess</li>
-        <li>Travelling</li>
+        <li>Gaming</li>
       </ul>
     </div>
   );
