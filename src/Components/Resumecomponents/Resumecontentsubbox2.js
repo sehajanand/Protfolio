@@ -18,7 +18,7 @@ export default function Resumecontentsubbox2() {
           11/2020 - 09/2024
         </li>
       </ul>{" "}
-      <h2>Work Experience</h2>
+      <h2>Work / Learning Experience</h2>
       <ul>
         <li>
           <em>Zoonotics Esports Organisation </em> <br /> Team Leader of Front

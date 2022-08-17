@@ -16,7 +16,7 @@ export default function Resumecontentsubbox1() {
       </ul>{" "}
       <h2>Engineering Skills</h2>
       <ul>
-        <li>Thermodynamics</li>
+        <li>Agriculture Cyber Physical Systems</li>
         <li>Heat Transfer</li>
         <li>Outstanding Communication Skills</li>
         <li>Team Collaboration</li>

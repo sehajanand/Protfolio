@@ -9,9 +9,9 @@ export default function Contactbox() {
       <address>
         Hno 50, Lane No 4A <br /> Anand Nagar, Talab Tillo, Jammu, J/k
       </address>{" "}
-      <a href="tel:9682141640">9682141640</a>
+      <a href="tel:9682141640" className="contact-links">9682141640</a>
       <br />{" "}
-      <a href="mailto:sehajanand.321@gmail.com">
+      <a href="mailto:sehajanand.321@gmail.com" className="contact-links">
         sehajanand.321@gmail.com
       </a>{" "}
       <ul>
